@@ -5,6 +5,9 @@
 To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement and Dataset
+<img width="293" alt="first" src="https://github.com/user-attachments/assets/52242826-fe01-43f0-9f07-c52fb6168b0b">
+
+
 1.We aim to develop an LSTM-based neural network model using Bidirectional Recurrent Neural Networks for recognizing the named entities in the text.
 
 2.The dataset used has a number of sentences, and each words have their tags.
@@ -162,8 +165,8 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ![image](https://github.com/EASWAR17/named-entity-recognition/assets/94154683/934ee312-e4d4-4441-aba6-9e9c9ca959e6)
 
 ### Sample Text Prediction
+<img width="436" alt="last" src="https://github.com/user-attachments/assets/e71b9141-bac7-4849-ab6b-94271abcebee">
 
-![image](https://github.com/EASWAR17/named-entity-recognition/assets/94154683/6032f1e0-2f38-4d13-af18-cc9d8fe8cfdf)
 
 ## RESULT
 Thus, an LSTM-based model for recognizing the named entities in the text is successfully developed.
